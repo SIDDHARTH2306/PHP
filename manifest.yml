@@ -1,0 +1,5 @@
+applications:
+- disk_data: 1024M
+  name: SampleWebPHP123
+  instances: 1
+  memory: 1024M
